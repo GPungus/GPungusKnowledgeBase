@@ -1,5 +1,7 @@
 ---
 title: Origins
+aliases:
+  - origins
 ---
 ## Related categories
 
