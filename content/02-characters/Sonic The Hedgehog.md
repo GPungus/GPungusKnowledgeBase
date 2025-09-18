@@ -1,4 +1,4 @@
-<img src="SONICMAIN.jpg" width="150">
+<img src="attachments/SONICMAIN.jpg" width="150">
 
 ## Character Biography
 
