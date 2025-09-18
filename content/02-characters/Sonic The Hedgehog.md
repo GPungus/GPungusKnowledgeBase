@@ -1,4 +1,4 @@
-![[SONICMAIN.jpg|250]]
+<img src="SONICMAIN.jpg" width="150">
 
 ## Character Biography
 
@@ -12,4 +12,6 @@ The one and the only Blue Blur! Sonic the Hedgehog is the main protagonist of th
 - Swordmanship
 - Spin dash and related attacks
 - Empowered Forms (Super, Hyper, Cyber Corrupted)
+
+
 
