@@ -13,5 +13,7 @@ The one and the only Blue Blur! Sonic the Hedgehog is the main protagonist of th
 - Spin dash and related attacks
 - Empowered Forms (Super, Hyper, Cyber Corrupted)
 
+[[IDW1COVER.jpg]]
+[[Sonic The Hedgehog - 5th Anniversary Edition 001 (2023) (Digital) (AnHeroGold-Empire).pdf]]
 
 
