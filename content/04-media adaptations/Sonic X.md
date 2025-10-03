@@ -1,4 +1,8 @@
-## 10/1/2025
+---
+title: Show adaptation 2000s
+date: 9/30/25
+---
+
 
 ![[SonicX.jpg]]
 ## What could've been

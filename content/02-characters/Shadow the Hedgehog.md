@@ -1,3 +1,8 @@
+---
+title: Shadow Character Page
+date: 9/22/25
+---
+
 <img src="SHADOWMAIN.jpg" width="150">
 
 ## Character Description

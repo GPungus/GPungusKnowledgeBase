@@ -1,3 +1,7 @@
-## 10/1/25
+---
+title: Dominos Pt.2
+date: 10/1/25
+---
+
 
 Even after the release of Unleashed, Sonic and the Black Knight, and the plethora of miserable Sonic spinoffs that Sega had released, there were still a dedicated group of people that had latched on to the series, and Sega had more chances to try and redeem themselves. In the 2010s, Sonic would have a moderate amount of success compared to what had been the early 2000s, but it still wasn't half of what Sonic had been in the years leading up to the 21st century. On top of this, Sonic was undergoing a noticeable culture shift that had been spearheaded by the leadership of Sega and the Sonic team. A lot of the focus around sonic being "cool" had waned, and instead Sega favored a more family friendly, tame version of Sonic the Hedgehog. This shift in ideology for where Sega wanted Sonic to go was problematic for a list of reasons, but the most important one being that it created a lot of different interpretations of Sonic's characterization. This causes Sonic and other related characters to be somewhat all over the place. Sega would continue to play it safe releasing the few things that people could tolerate like the racing games and a few mainline entries here and there. Even mainline entries became things like Sonic generations which was largely a redux of games that had already been made. Sega had put themselves at a point where they were scared to innovate because of mistakes they had made in the past, but also weren't releasing anything new or exciting enough to get people to buy their games over the competitors. All in all, Sonic had fallen from grace and was now stuck wallowing through the muck

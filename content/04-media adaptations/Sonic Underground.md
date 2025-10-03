@@ -1,4 +1,8 @@
-## 10/1/25
+---
+title: Show adaptation 90s (end)
+date: 9/30/25
+---
+
 ![[sonicunderground.jpg]]
 
 ## Sonic at the end of the 90s

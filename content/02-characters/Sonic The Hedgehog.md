@@ -1,3 +1,8 @@
+---
+title: Sonic Character Page
+date: 9/20/25
+---
+
 <img src="SONICMAIN.jpg" width="150">
 
 ## Character Biography

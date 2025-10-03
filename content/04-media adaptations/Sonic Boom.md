@@ -1,4 +1,7 @@
-## 10/1/25
+---
+title: Show adaptation 2010s
+---
+
 ![[SonicBoom.jpg]]
 
 ## Solid and successful 

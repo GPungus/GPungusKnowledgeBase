@@ -1,4 +1,8 @@
-## 10/1/25
+---
+title: Sonic 06 ruined everything
+date: 10/1/25
+---
+
 
 ![[Sonic_Next_Gen.jpg]]
 

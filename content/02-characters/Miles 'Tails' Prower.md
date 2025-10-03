@@ -1,3 +1,8 @@
+---
+title: Tails Character Page
+date: 9/21/25
+---
+
 <img src="TAILSMAIN.jpg" width="150">
 
 ## Character Biography

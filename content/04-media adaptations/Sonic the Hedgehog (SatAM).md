@@ -1,4 +1,8 @@
-## 9/30/25
+---
+title: "Show adaptation #2"
+date: 9/30/25
+---
+
 ![[SatAM.jpg]]
 
 ## Same year, different tone

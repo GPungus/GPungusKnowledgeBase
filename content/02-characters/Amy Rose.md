@@ -1,4 +1,11 @@
+---
+title: Amy Rose Character Page
+date: 9/20/25
+---
+
 <img src="AMYROSEMAIN.jpg" width="150">
+
+
 
 
 ## Character Description

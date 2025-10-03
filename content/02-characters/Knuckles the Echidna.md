@@ -1,3 +1,8 @@
+---
+title: Knuckles Character Page
+date: 9/21/25
+---
+
 <img src="KNUCKLESMAIN.jpg" width="150"> 
 
 ## Character Description

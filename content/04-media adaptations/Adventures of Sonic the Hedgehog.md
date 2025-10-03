@@ -1,4 +1,8 @@
-## 9/30/2025
+---
+title: "Show adaptation #1"
+date: 9/30/25
+---
+
 
 ![[adventuresofsonicthehedgehog.jpg]]
 
